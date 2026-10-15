@@ -1,0 +1,10 @@
+# Generated databases
+SQLData/
+*.db
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
